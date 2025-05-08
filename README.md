@@ -9,5 +9,5 @@ My first repository
    
 ## Favorite Quote
 ~~ Copying others rarely breed success ~~
-~~ If saving yous was a sin, then I'll be a sinner ~~
+~~ If saving you was a sin, then I'll be a sinner ~~
 
