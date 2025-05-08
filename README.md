@@ -8,6 +8,5 @@ My first repository
 5. Stelle
    
 ## Favorite Quote
-~~ Copying others rarely breed success ~~
-~~ If saving you was a sin, then I'll be a sinner ~~
-
+- Copying others rarely breeds success
+- If saving you was a sin, then I'll be a sinner
